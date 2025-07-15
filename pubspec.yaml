@@ -1,6 +1,6 @@
 name: bardon_flutter_utils
 description: "A collection of useful extensions and utilities for Flutter."
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.6.1
-  go_router: ^15.1.3
+  go_router: ^16.0.0
 
 dev_dependencies:
   flutter_test:
